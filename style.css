@@ -1,0 +1,70 @@
+body
+{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #3c3939;
+    background-color: #f1f1f1;
+}
+
+.profile
+{
+    width: 700px;
+    margin:auto;
+    background: #fff;
+
+}
+
+.title
+{
+    text-align: center;
+}
+.image-container
+{
+    position: relative;
+    text-align: center;
+}
+.icon
+{
+  color: #44bbff; 
+  margin-right: 16px;
+
+}
+.main-container
+{
+    padding: 20px;
+}
+.skill-bar
+{
+    background-color: #f5a7a7;
+    border-radius: 16px;
+
+}
+.progress-bar
+{
+    padding: 0.1em 16px;
+    border-radius: 16px;
+    text-align: center;
+    color: #fff;
+    background-color: #b5076b;
+    
+}
+table {
+    border-collapse: collapse;
+    margin-top: 5vh;
+    border: none!important;
+
+  }
+  
+  table, th, td {
+    border-collapse: collapse;
+    margin-top: 5vh;
+    border: none!important;
+    text-align: center;
+    padding: 15px;
+  }
+  tr:nth-child(even) {background-color: #f2f2f2;}
+  
+  th {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
